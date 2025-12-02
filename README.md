@@ -24,7 +24,7 @@ This is a **public-facing API**.
 ### 1. **Clone the Repository**
 
 ````bash
-git clone https://github.com/your-repo-here/Whzan-API.git
+git clone git@github.com:Yenzokuhle/whzan-api.git
 cd Whzan-API
 
 Powered .NET CORE framework
@@ -44,7 +44,7 @@ Below is a series of step by step instructions that tell you how to get a develo
 Create a local clone of the repository.
 
 ```bash
-git clone https://github.com/your-repo-here/Whzan-API.git
+git clone git@github.com:Yenzokuhle/whzan-api.git
 ````
 
 Enter the new repo.
