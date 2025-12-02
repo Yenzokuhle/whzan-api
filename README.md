@@ -69,7 +69,7 @@ After it is successfully installed you can use this command
 dotnet ef database update
 ```
 
-This will create the database BookDB in the local server you pointed it too in step above. It will also run the migration in the Migrations folder in you root project directory.
+This will create the database ProductDB in the local server you pointed it too in step above. It will also run the migration in the Migrations folder in you root project directory.
 
 if you do not have the ef tool installed on you machine you can use Package Manager Console in you visual studio
 
